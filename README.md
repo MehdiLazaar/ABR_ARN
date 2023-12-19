@@ -29,20 +29,6 @@ Pour chaque valeur de `n`, un ABR et un ARN ont été construits, contenant des 
 
 Les résultats des mesures ont été consignés et utilisés pour tracer des courbes illustrant les temps d'exécution en fonction de la taille de l'arbre `n`. Ces courbes permettent de visualiser et de comparer les performances relatives des ABR et des ARN dans différents scénarios.
 
-## Comment utiliser ce projet
-
-### Installation
-[Instructions d'installation ici]
-
-### Exécution des tests
-[Instructions pour exécuter les tests]
-
-### Utilisation de l'étude de performances
-[Instructions pour exécuter l'étude expérimentale]
-
-## Contributions et améliorations futures
-
-Toute contribution visant à améliorer cette implémentation ou à étendre l'étude de performances est la bienvenue. Veuillez consulter le fichier CONTRIBUTING.md pour plus d'informations sur la manière de contribuer à ce projet.
 
 ---
 
